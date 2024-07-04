@@ -1,0 +1,32 @@
+.container {
+    margin: 2rem 1rem;
+}
+
+.location-main-info {
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+}
+
+.location-name {
+    font-size: 3rem;
+    color: #b3d24c;
+}
+
+.location-type,
+.location-dimension {
+    color: #b6b6b6;
+    font-size: 1.1rem;
+}
+
+.location-type {
+    padding: .5rem;
+}
+
+.accented {
+    font-size: 1.3rem;
+    color: #fff;
+}
+
+.location-dimension {
+    margin-bottom: 2rem;
+}
